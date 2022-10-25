@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm David 👋</h1>
-<h3 align="center">I'm a beginner web-developer</h3>
 
 - 🌱 I’m currently learning **Python, Django, DRF, FastAPI**
 
